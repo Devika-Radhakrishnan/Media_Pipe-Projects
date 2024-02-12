@@ -15,7 +15,7 @@ Mediapipe
 OpenCV
 How to Use:
 Install the required dependencies: pip install mediapipe opencv-python
-Clone the repository: git clone https://github.com/your_username/real-time-face-detection.git
+Clone the repository: git clone (https://github.com/Devika-Radhakrishnan/Media_Pipe-Projects)
 Navigate to the project directory: cd real-time-face-detection
 Run the main script: python face_detection.py
 Observe the webcam feed with real-time face detection and bounding box overlays.
