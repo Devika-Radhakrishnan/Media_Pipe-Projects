@@ -1,5 +1,6 @@
 # Media_Pipe-Projects
 Here are some projects that uses media pipe concepts to detect various poses
+
 Face detection:
 Real-time Face Detection with Mediapipe and OpenCV
 This project showcases real-time face detection using the Mediapipe library and OpenCV in Python. It employs the Face Detection module of Mediapipe to identify and draw bounding boxes around faces captured through the webcam.
