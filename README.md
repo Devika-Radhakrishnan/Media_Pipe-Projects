@@ -29,9 +29,6 @@ This project utilizes the Face Detection module from the Mediapipe library.
 Special thanks to the OpenCV community for their contributions to computer vision research and development.
 ----------------------------------------------------------------------------------------------------------------------
 
-
-Certainly! Since I can't see the content of the body_pose.ipynb file, I'll provide a generic template for a GitHub project summary. Feel free to customize it based on the specific details of your project:
-
 Media_Pipe-Projects
 This repository contains Jupyter Notebook projects showcasing the implementation of various computer vision tasks using the MediaPipe library. Currently, the body_pose.ipynb notebook is available, demonstrating the application of MediaPipe for body pose estimation.
 
